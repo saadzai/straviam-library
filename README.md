@@ -6,8 +6,10 @@
 | Name | Role |
 |---|---|
 | Hamza | Product Owner |
-| Saad | Scrum Master & Developer 1 |
-| Azlan | Developer 2 |
+| Saad | Scrum Master|
+| Azlan | Developer 1 |
+| Basil | Developer 2 |
+
 
 ## Product Vision
 
